@@ -1,0 +1,20 @@
+.aboutus {
+    height: 500px;
+    text-align: center;
+    background-image: url(../images/aboutus-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: #cccccc;
+    opacity: 0.8;
+    margin-top: 5%;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 2vw;
+    padding: 6% 0 4%;
+}
+.aboutText {
+    padding: 2% 8%;
+}
